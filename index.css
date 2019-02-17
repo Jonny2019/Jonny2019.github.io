@@ -1,0 +1,9 @@
+body {
+    font-family: Arial;
+    background-image: url(background.jpg);
+    color: #fafef9;
+}
+body .AllContendWrapper .TopContendWrapper .NavigationWrapper ol {
+    list-style-type: none;
+    display: inline;
+}
