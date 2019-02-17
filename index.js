@@ -14,7 +14,7 @@ function downloads()
 {
     document.getElementById('Themefield').innerHTML = Downloads;    
 }
-function links
+function links()
 {
     document.getElementById('Themefield').innerHTML = Links;
 }
