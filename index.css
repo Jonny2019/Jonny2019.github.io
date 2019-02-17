@@ -5,5 +5,5 @@ body {
 }
 body .AllContendWrapper .TopContendWrapper .NavigationWrapper ol {
     list-style-type: none;
-    display: inline;
+    display: inrow;
 }
