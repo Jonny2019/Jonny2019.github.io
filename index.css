@@ -2,8 +2,9 @@ body {
     font-family: Arial;
     background-image: url(background.jpg);
     color: #fafef9;
+    text-aligin: center;
 }
 body .AllContendWrapper .TopContendWrapper .NavigationWrapper ol {
     list-style-type: none;
-    display: inrow;
+    display: inline;
 }
