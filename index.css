@@ -2,7 +2,7 @@ body {
     font-family: Arial;
     background-image: url(background.jpg);
     color: #fafef9;
-    text-aligin: center;
+    text-align: center;
 }
 body .AllContendWrapper .TopContendWrapper .NavigationWrapper ol {
     list-style-type: none;
