@@ -1,6 +1,4 @@
 '''
-Beispielprogramm
-Python
 Blue Bird
 '''
 import pygame
