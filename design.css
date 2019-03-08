@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: Arial;
+    background: url(bacground-image.jpg) fixed;
+}
+body .AllContentWrapper .TopContentWrapper h1{
+    font-size: 400%;
+    text-shadow: 2px 0px #989898;
+    color: #2a2a2a;
+}
+body .AllContentWrapper .MainContentWrapper object{
+    width: 95%;
+    height: 60em;
+}
